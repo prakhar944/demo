@@ -1,4 +1,4 @@
 # demo
 this is my firs git repo!!
 <br>
-author: Prakhar Shrivastava
+author: Prakhar Kumar Shrivastava
